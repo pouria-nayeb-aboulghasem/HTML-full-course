@@ -136,7 +136,7 @@
 </article>
 
 <figure>
-   <img src="url address" alt="image description" >
+   <img src="url address" alt="image description" />
    <figcaption> image caption </figcaption>
 </figure>
 <mark> highlighted text </mark>
